@@ -1,8 +1,8 @@
 module.exports = {
-    mongoURI: 'mongodb+srv://test:test@cluster0.8m731.mongodb.net/Votes?retryWrites=true&w=majority',
-    pusherAppId: '1036659',
-    pusherKey: '049cd41a9d5db8725650',
-    pusherSecret: '31cf4e825df5b91f45f1',
+    mongoURI: 'mongodb+srv://user:pointing@cluster0.dqze4.mongodb.net/Pointing?retryWrites=true&w=majority',
+    pusherAppId: '1037242',
+    pusherKey: '392e42f919e0097681cb',
+    pusherSecret: '3d5bd57aab6b3fac183c',
     pusherCluster: 'us3',
     pusherEncrypted: true
   };
